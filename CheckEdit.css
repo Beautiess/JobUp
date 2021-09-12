@@ -1,0 +1,67 @@
+nav, footer {
+    background-color: #F5DF4D;
+    margin: 0px;
+    padding: 0px;
+}
+nav a, footer a {
+    display: inline-block;
+    padding: 10px;
+    font-family: fantasy;
+    font-size: 20px;
+    color: #02569B;
+    text-decoration: inherit;
+    font-style: oblique;
+    font-weight: 200;
+}
+nav a:hover, footer a:hover {
+    background-color: #F0EEE9;
+}
+h1 {
+    font-family: fantasy;
+    font-size: 100px;
+    color: #02569B;
+    text-align: center;
+    background-color: #F5DF4D;
+    font-style: oblique;
+    font-weight: 1000;
+}
+.check {
+    font-family: fantasy;
+    font-size: 30px;
+    color: #02569B;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 400;
+}
+.button1 {
+    font-family: fantasy;
+    font-size: 30px;
+    color: #02569B;
+    text-align: left;
+    background-color: #F5DF4D;
+    font-style: oblique;
+    font-weight: 400;
+    width: 150px;
+    padding: 20px;
+}
+.button2 {
+    font-family: fantasy;
+    font-size: 30px;
+    color: #02569B;
+    text-align: left;
+    background-color: #F5DF4D;
+    font-style: oblique;
+    font-weight: 400;
+    width: 115px;
+    padding: 20px;
+}
+body {
+    background-color: #F0EEE9;
+}
+.c {
+    font-family: verdana;
+    font-size: 20px;
+    color: #02569B;
+    text-align: center;
+    font-weight: 200;
+}
